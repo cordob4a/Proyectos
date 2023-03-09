@@ -1,0 +1,3 @@
+El ATM es un proyecto java(realizado con netbeans) no tiene un .exe porque en su momento no fue necesario
+El Gestor(php y js) solo requiere de xamp para iniciarse.
+Gracias
