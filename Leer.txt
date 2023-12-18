@@ -2,4 +2,4 @@ El ATM es un proyecto java(realizado con netbeans) no tiene un .exe porque en su
 El Gestor(php y js) solo requiere de xamp para iniciarse.
 La carpeta "Cordoba" tiene un slider realizado con php 
 Tambien pongo aca el link donde subi en su momento ese proyecto con algunas cosas mas https://amorous-bubbles.000webhostapp.com//
-Gracias 
+Gracias.
